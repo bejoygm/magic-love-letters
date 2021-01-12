@@ -1,1 +1,3 @@
-# magic-love-letters
+# Magic love letters 💌
+
+What it does - TBD
